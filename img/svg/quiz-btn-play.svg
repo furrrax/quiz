@@ -1,0 +1,17 @@
+<svg id="quiz-btn-play" width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.5 8.13398C16.1667 8.51888 16.1667 9.48113 15.5 9.86603L2 17.6603C1.33334 18.0452 0.500001 17.564 0.500001 16.7942L0.500002 1.20577C0.500002 0.435972 1.33333 -0.0451548 2 0.339746L15.5 8.13398Z" fill="white"/>
+<path d="M15.5 8.13398C16.1667 8.51888 16.1667 9.48113 15.5 9.86603L2 17.6603C1.33334 18.0452 0.500001 17.564 0.500001 16.7942L0.500002 1.20577C0.500002 0.435972 1.33333 -0.0451548 2 0.339746L15.5 8.13398Z" fill="url(#paint0_linear_1_138)"/>
+<defs>
+<linearGradient id="paint0_linear_1_138" x1="-2" y1="-2" x2="15.3295" y2="7.55379" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBB531"/>
+<stop offset="0.119792" stop-color="#F38336"/>
+<stop offset="0.260417" stop-color="#EF6836"/>
+<stop offset="0.385417" stop-color="#ED5836"/>
+<stop offset="0.515625" stop-color="#EA2134"/>
+<stop offset="0.635417" stop-color="#C1486F"/>
+<stop offset="0.760417" stop-color="#9E5AA1"/>
+<stop offset="0.875" stop-color="#3E95B0"/>
+<stop offset="1" stop-color="#44C1CB"/>
+</linearGradient>
+</defs>
+</svg>
